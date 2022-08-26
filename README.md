@@ -11,4 +11,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/lua-ware/luawareantic
 - Scripting: patrick star#8473
 - UI Design: patrick star#8473
 - Management: patrick star#8473
-- Website: https://luawareanticheat.000webhostapp.com
+- Website: https://placeholder.com
